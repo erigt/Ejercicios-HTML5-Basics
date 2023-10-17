@@ -1,0 +1,22 @@
+.negrita {
+    font-weight: bold;
+}
+
+.cursiva {
+    font-style: italic;
+}
+
+body {
+    margin: 30px;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p,
+blockquote {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
